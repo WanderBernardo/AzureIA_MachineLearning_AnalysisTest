@@ -1,4 +1,4 @@
-# AzureIA_MachineLearning_AnalysisTest
+# Azure Inteligência Artificial(IA) - Configurar o Modelo e validar os resultados
 Objetivo demostrar o resultado dos testes de experimento.
 
 ### Ferramentas utilizadas:
@@ -55,7 +55,7 @@ Objetivo demostrar o resultado dos testes de experimento.
 
 ![image](https://github.com/user-attachments/assets/b8c3e375-a375-4565-98e1-6a7bd7607704)
 
-![image](https://github.com/user-attachments/assets/ae2495e7-21f9-4e0d-b4c9-854a7484f79d)
+![image](https://github.com/user-attachments/assets/6e2796b9-b521-459d-b048-b1c17750d476)
 
 ### Próximo Passo
 
