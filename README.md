@@ -19,7 +19,8 @@ Objetivo demostrar o resultado dos testes de experimento.
 ### Resumo (Passo-a-passo): Configuração Machine Learning:
 
  - Verificar se tem algum erro e tratar caso apresente
- - 
+ - Registrar o "Modelo"
+ - Ir me "Metrics" verificar o resultado
    
 ### Detalhamento (Passo-a-passo): Configuração Machine Learning
 
