@@ -1,4 +1,4 @@
-# Azure Inteligência Artificial(IA) - Configurar o Modelo e validar os resultados
+# Azure Inteligência Artificial(IA) - Configurar o Modelo e Validar os Resultados
 Objetivo demostrar o resultado dos testes de experimento.
 
 ### Ferramentas utilizadas:
