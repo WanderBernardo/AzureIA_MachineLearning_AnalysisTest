@@ -81,6 +81,22 @@ Aguardar o processo concluído sem sair da tela
 
 ![image](https://github.com/user-attachments/assets/15833d77-a85e-44fc-8c3b-cd25fa15a9d4)
 
+Caso esse ultimo passo apresente erro: ResourceOperationFailure: ``` Resource provider [N/A] isn't registered with Subscription [N/A]  ```. Então, deve realizar uma configuração e refazer a confiuração acima.
+
+   * Ir no portal da Azure: https://portal.azure.com/#home, fazer o login
+   * Na barra de pesquisa, escrever "Subscription"
+   * Selecionar o Subscription Name
+   * Vai abrir um novo menu, então selecionar "Resource providers"
+   * Selecionar:
+      * Microsoft.Cdn
+      * Microsoft.CostManagement
+   * Clicar no botão acima "Register".
+   
+   ![image](https://github.com/user-attachments/assets/79e279f1-96a9-4301-978a-71128c464908)
+
+   Links de ajuda: 
+     * https://learn.microsoft.com/en-us/answers/questions/1983847/error-while-creating-a-managed-online-endpoint-in
+     * https://learn.microsoft.com/en-us/answers/questions/2129910/resource-provider-(n-a)-isnt-registered-with-subsc
 
 ### Próximo Passo
 
