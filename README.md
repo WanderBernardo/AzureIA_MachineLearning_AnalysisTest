@@ -58,6 +58,30 @@ Objetivo demostrar o resultado dos testes de experimento.
 
 ![image](https://github.com/user-attachments/assets/6e2796b9-b521-459d-b048-b1c17750d476)
 
+08 - Voltar para aba "Overview" para configurarmos o deploy e testar o modelo:
+
+![image](https://github.com/user-attachments/assets/238ce396-d4f7-4d7e-a426-dfe91549e612)
+
+09 - Agora, precisamos configurar o seridor que irá rodar esse experimento. fechar com o click no botão ``` Deploy  ```
+   * Instance count: 3
+   * Vitual machine: Standard_E4s_v3 .....
+
+     Caso essa opção não esteja disponivel, selecionar outro. Se não for valida, então vai apresentar uma mensagem abaixo do campo com o alerta.
+   * Endpoint: New
+     
+   Demais campos manter a configuração padrão
+
+![image](https://github.com/user-attachments/assets/c9486ea4-2b02-43db-a848-606e0cb534e2)
+
+Aguardar o processo concluído sem sair da tela
+
+![image](https://github.com/user-attachments/assets/e1e80e90-41f7-433a-9c7a-97cb9c1f2d60)
+
+10 - Agora, ir até a opção ``` Endpoints  ```, selecionar Endpoint criado.
+
+![image](https://github.com/user-attachments/assets/15833d77-a85e-44fc-8c3b-cd25fa15a9d4)
+
+
 ### Próximo Passo
 
 https://github.com/WanderBernardo/AzureIA_MachineLearning_Create_PredictiveExperiment
