@@ -11,9 +11,7 @@ Objetivo demostrar o resultado dos testes de experimento.
 
  - Caso esteja realizando apenas um prática de estudo, no final excluir tudo que foi construído nesse laboratório. Desta forma, minimiza o risco de ser cobrado algum valor. Lembre-se você está em um ambiente real de produção.
  - Links uteis com detalhamento:
-   
     * https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/02-content-safety.html
-      
     * https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
 
 ### Resumo (Passo-a-passo): Configuração Machine Learning:
